@@ -4,7 +4,7 @@ import matplotlib.path as plt
 
 
 def data_wing():
-    data_indx = [288, 2420, 3235, 4235, 4840]
+    data_indx = [288, 2421, 3237, 4238, 4844]
     path = r"D:\pj\math\math_work\data\AMOS20200313\WIND_R06_12.his"
     ALL_data = []
 
