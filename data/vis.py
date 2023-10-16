@@ -5,7 +5,7 @@ import numpy as np
 
 
 def data_vis(category="RVR_1A"):
-    data_indx = [288, 2420, 3235, 4235, 4840]
+    data_indx = [288, 2421, 3237, 4238, 4844]
     path = r"D:\pj\math\math_work\data\AMOS20200313\VIS_R06_12.his"
 
     ALL_data = []
